@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PruebaMarcianito</string>
+    <string name="title_name">Bienvenidos</string>
+    <string name="button_name">Entrar</string>
+</resources>
